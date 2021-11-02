@@ -1,0 +1,78 @@
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="app.css" />
+		<title>Salary Prediction</title>
+	</head>
+	<body>
+		<form action="/predict" method="post">
+			<h1>SALARY PREDICTION</h1>
+      <hr>
+      <div class="exp">
+        <h3>Years of Experience</h3>
+        <input
+          class="input100"
+          type="number"
+          name="exp"
+          id="exp"
+          step="0.5"
+          min="1"
+          max="30"
+          placeholder="e.g. 3/3.5"
+          required
+        />
+      </div>
+			
+
+			<h3>Level</h3>
+			<div class="group">
+				<input type="radio" name="level" id="Junior" value="Junior" required/>
+				<label for="Junior">Junior</label>
+				<input type="radio" name="level" id="Middle" value="Middle"/>
+				<label for="Middle">Middle</label>
+				<input type="radio" name="level" id="Senior" value="Senior"/>
+				<label for="Senior">Senior</label>
+				<input type="radio" name="level" id="Head" value="Head"/>
+				<label for="Head">Head</label>
+			</div>
+
+			<h3>Company Type</h3>
+			<div class="group">
+				<input type="radio" name="company_type" id="Startup" value="Startup" required/>
+				<label for="Startup">Startup</label>
+				<input type="radio" name="company_type" id="Product" value="Product"/>
+				<label for="Product">Product</label>
+				<input type="radio" name="company_type" id="Agency" value="Agency"/>
+				<label for="Agency">Agency</label>
+				<input type="radio" name="company_type" id="Corporation" value="Corporation"/>
+				<label for="Corporation">Corporation</label>
+			</div>
+
+			<h3>Company Size</h3>
+			<div class="group">
+				<input type="radio" name="company_size" id="less_than_50" value="less_than_50" required/>
+				<label for="less_than_50">Less than 50</label>
+				<input type="radio" name="company_size" id="50-100" value="50-100"/>
+				<label for="50-100">50 - 100</label>
+				<input type="radio" name="company_size" id="100-1000" value="100-1000"/>
+				<label for="100-1000">100 - 1000</label>
+				<input type="radio" name="company_size" id="more_than_1000" value="more_than_1000"/>
+				<label for="more_than_1000">More than 1000</label>
+			</div>
+      <hr>
+			{% if salary %}
+			<h2>PREDICTED SALARY: &#8377 <span id="sal"></span> </h2>
+			{% else %}
+			<h2></h2>
+			{% endif %}
+			<button type="submit">PREDICT</button>
+		</form>
+		<script>
+			var elem = document.getElementById("sal");
+			var now = {{ salary }};
+			elem.innerHTML = now.toLocaleString();
+		</script>
+	</body>
+</html>

@@ -2,7 +2,7 @@ from flask import Flask, request, render_template
 import pickle
 
 # Create flask app
-app = Flask(__name__, template_folder='',static_folder='')
+app = Flask(__name__, template_folder='', static_folder='')
 model = pickle.load(open("lr_model.pickle", "rb"))
 
 
