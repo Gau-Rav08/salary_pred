@@ -1,0 +1,1493 @@
+level,yrs_exp,company_size,company_type,salary
+Senior,13,50-100,Startup,64000
+Middle,4,more than 1000,Startup,70000
+Senior,6,100-1000,Product,63000
+Senior,10,50-100,Product,66000
+Middle,11,more than 1000,Product,80000
+Senior,12,50-100,Startup,85000
+Head,15,100-1000,Product,81000
+Head,8,100-1000,Product,66000
+Senior,7,100-1000,Product,65000
+Senior,8,100-1000,Product,65000
+Senior,9,100-1000,Product,66000
+Senior,7,100-1000,Startup,80000
+Middle,6,100-1000,Product,72000
+Senior,10,50-100,Product,87000
+Senior,12,more than 1000,Product,90000
+Senior,6,more than 1000,Product,78000
+Senior,7,100-1000,Product,55000
+Senior,12,more than 1000,Corporation,160000
+Senior,5,more than 1000,Product,75000
+Senior,13,50-100,Product,60000
+Senior,7,more than 1000,Product,72000
+Senior,16,less than 50,Product,80000
+Senior,9,100-1000,Product,67000
+Senior,8,100-1000,Product,60000
+Senior,13,100-1000,Product,78600
+Senior,20,50-100,Agency,60000
+Middle,6,50-100,Startup,65000
+Senior,11,more than 1000,Product,65000
+Middle,4,more than 1000,Product,58000
+Senior,16,more than 1000,Product,65000
+Senior,11,less than 50,Startup,190000
+Senior,9,100-1000,Product,69000
+Middle,15,more than 1000,Product,72000
+Senior,4,50-100,Startup,67000
+Middle,10,100-1000,Product,70000
+Senior,10,50-100,Startup,60000
+Middle,2,more than 1000,Product,62000
+Senior,9,more than 1000,Product,75000
+Senior,4,50-100,Agency,75000
+Middle,3,100-1000,Startup,61000
+Senior,12,more than 1000,Product,80000
+Senior,7,more than 1000,Agency,56600
+Senior,4,100-1000,Startup,75000
+Senior,6,more than 1000,Product,80000
+Senior,5,100-1000,Agency,72000
+Middle,6,100-1000,Startup,61000
+Senior,13,50-100,Startup,76000
+Senior,15,more than 1000,Product,60000
+Senior,15,100-1000,Product,70000
+Senior,9,100-1000,Product,60000
+Senior,12,more than 1000,Product,150000
+Middle,3,100-1000,Startup,66000
+Senior,8,more than 1000,Product,60000
+Senior,11,50-100,Product,65000
+Middle,3,50-100,Startup,50000
+Senior,12,100-1000,Agency,78000
+Middle,10,50-100,Product,80000
+Senior,5,100-1000,Agency,70000
+Senior,14,100-1000,Product,73000
+Head,15,more than 1000,Product,80000
+Middle,3,50-100,Product,58000
+Junior,2,100-1000,Product,60000
+Senior,12,more than 1000,Product,96000
+Senior,18,100-1000,Product,75000
+Senior,10,100-1000,Product,55000
+Head,6,more than 1000,Startup,115000
+Middle,6,more than 1000,Product,65000
+Middle,10,more than 1000,Product,80000
+Middle,7,more than 1000,Corporation,66000
+Senior,16,more than 1000,Agency,72000
+Senior,11,50-100,Product,72000
+Middle,7,more than 1000,Startup,67000
+Senior,14,100-1000,Product,70000
+Middle,5,more than 1000,Product,62000
+Senior,9,100-1000,Product,67500
+Senior,8,100-1000,Startup,75000
+Head,12,more than 1000,Product,89570
+Middle,3,50-100,Startup,60000
+Middle,2,100-1000,Product,52000
+Middle,19,100-1000,Startup,36000
+Middle,2,100-1000,Product,55000
+Middle,7,100-1000,Product,56500
+Senior,12,50-100,Product,68000
+Senior,7,more than 1000,Product,69000
+Senior,20,more than 1000,Agency,80000
+Junior,9,50-100,Startup,66000
+Middle,6,100-1000,Product,61000
+Senior,20,100-1000,Product,70000
+Senior,13,100-1000,Agency,56000
+Senior,7,more than 1000,Product,68000
+Senior,14,100-1000,Product,80000
+Senior,11,100-1000,Agency,67000
+Senior,16,100-1000,Startup,82000
+Middle,2,50-100,Startup,58500
+Middle,7,50-100,Agency,45000
+Junior,0,50-100,Product,55000
+Head,12,more than 1000,Product,210000
+Senior,20,more than 1000,Agency,65000
+Senior,18,more than 1000,Product,94000
+Senior,10,100-1000,Product,66000
+Middle,10,50-100,Product,65000
+Senior,25,100-1000,Product,70000
+Middle,10,100-1000,Product,57000
+Middle,4,50-100,Product,54000
+Senior,8,more than 1000,Product,63000
+Head,15,100-1000,Agency,120000
+Middle,4,100-1000,Product,60000
+Senior,4,more than 1000,Product,74000
+Senior,11,more than 1000,Product,70000
+Senior,14,more than 1000,Product,92000
+Senior,20,100-1000,Product,106000
+Senior,15,more than 1000,Agency,71000
+Senior,8,less than 50,Startup,52000
+Middle,10,100-1000,Product,70000
+Middle,9,100-1000,Agency,60500
+Middle,16,50-100,Agency,64000
+Senior,18,more than 1000,Product,88000
+Senior,12,more than 1000,Product,64000
+Senior,6,50-100,Agency,56000
+Middle,13,more than 1000,Product,73500
+Middle,12,more than 1000,Product,59500
+Senior,10,less than 50,Startup,65000
+Senior,8,100-1000,Product,81000
+Senior,12,100-1000,Product,70000
+Senior,7,50-100,Product,65000
+Senior,6,more than 1000,Product,66000
+Senior,6,100-1000,Product,60000
+Senior,9,100-1000,Product,74000
+Senior,10,less than 50,Agency,120000
+Senior,12,100-1000,Product,120000
+Senior,15,100-1000,Product,70000
+Junior,4,100-1000,Product,57000
+Senior,9,more than 1000,Product,120000
+Junior,1,more than 1000,Product,72000
+Senior,14,more than 1000,Product,175000
+Senior,11,100-1000,Product,67000
+Senior,6,100-1000,Product,65000
+Senior,10,more than 1000,Product,80000
+Senior,8,100-1000,Product,50000
+Senior,10,more than 1000,Product,85000
+Middle,10,less than 50,Agency,61800
+Senior,7,50-100,Startup,70000
+Senior,9,more than 1000,Product,90000
+Senior,7,100-1000,Product,45000
+Junior,2,50-100,Agency,42000
+Middle,5,50-100,Product,59000
+Middle,5,100-1000,Product,60000
+Middle,10,100-1000,Startup,70000
+Senior,7,50-100,Startup,65000
+Middle,2,50-100,Product,62000
+Senior,13,more than 1000,Product,80000
+Middle,5,100-1000,Product,60000
+Senior,17,more than 1000,Product,120000
+Middle,10,50-100,Product,68700
+Senior,11,more than 1000,Product,33200
+Middle,8,more than 1000,Product,68000
+Senior,8,100-1000,Product,63000
+Senior,15,more than 1000,Agency,60000
+Senior,15,more than 1000,Product,120000
+Senior,16,50-100,Product,55000
+Junior,1,50-100,Agency,45000
+Senior,11,100-1000,Product,75000
+Senior,10,50-100,Agency,45000
+Senior,9,more than 1000,Product,89000
+Senior,4,more than 1000,Product,65000
+Head,17,100-1000,Product,114000
+Senior,16,100-1000,Product,60000
+Head,10,more than 1000,Product,85000
+Junior,3,100-1000,Product,46000
+Senior,12,100-1000,Product,65000
+Head,10,more than 1000,Product,85000
+Middle,22,100-1000,Product,100000
+Middle,10,50-100,Product,75000
+Senior,10,100-1000,Agency,56000
+Senior,12,100-1000,Product,75000
+Middle,4,100-1000,Product,62000
+Middle,9,50-100,Product,46000
+Senior,6,100-1000,Agency,79000
+Senior,14,100-1000,Product,72000
+Middle,17,more than 1000,Product,58000
+Senior,7,50-100,Product,65000
+Middle,8,more than 1000,Product,80000
+Middle,3,more than 1000,Product,55000
+Senior,4,more than 1000,Product,59000
+Senior,25,less than 50,Product,87600
+Senior,10,more than 1000,Product,67000
+Middle,15,more than 1000,Product,73000
+Head,14,more than 1000,Product,80000
+Senior,10,100-1000,Product,90000
+Senior,10,100-1000,Product,68000
+Senior,15,100-1000,Product,120000
+Middle,10,100-1000,Product,65000
+Middle,15,more than 1000,Corporation,87000
+Senior,5,more than 1000,Product,70000
+Senior,12,more than 1000,Product,74000
+Senior,14,100-1000,Product,90000
+Senior,13,100-1000,Product,77400
+Senior,13,100-1000,Product,65000
+Senior,7,50-100,Startup,63000
+Senior,8,more than 1000,Product,78000
+Middle,6,more than 1000,Product,50000
+Senior,20,100-1000,Startup,120000
+Junior,1,more than 1000,Agency,43200
+Senior,15,50-100,Startup,78000
+Senior,12,more than 1000,Agency,96000
+Senior,16,more than 1000,Product,85000
+Senior,20,more than 1000,Agency,95000
+Middle,2,less than 50,Startup,62000
+Junior,1,100-1000,Startup,70000
+Junior,1,100-1000,Startup,70000
+Middle,5,more than 1000,Agency,57000
+Senior,8,50-100,Startup,65000
+Senior,5,100-1000,Product,80000
+Head,10,more than 1000,Product,72000
+Middle,12,100-1000,Startup,64000
+Senior,22,more than 1000,Product,107000
+Senior,13,50-100,Product,60000
+Junior,1,100-1000,Agency,36000
+Senior,7,more than 1000,Product,63500
+Senior,5,more than 1000,Product,65000
+Head,14,100-1000,Product,98000
+Middle,7,100-1000,Product,66000
+Middle,5,more than 1000,Product,42000
+Senior,11,100-1000,Product,69000
+Senior,7,100-1000,Product,78000
+Middle,2,50-100,Product,45000
+Junior,0,50-100,Product,59000
+Senior,7,100-1000,Product,77500
+Middle,4,100-1000,Product,60000
+Senior,13,50-100,Product,70000
+Junior,1,100-1000,Product,55000
+Senior,10,more than 1000,Product,100000
+Senior,11,50-100,Product,92000
+Senior,11,50-100,Product,92000
+Senior,10,more than 1000,Product,78000
+Middle,13,50-100,Product,55000
+Senior,11,less than 50,Agency,78000
+Middle,8,more than 1000,Product,65000
+Junior,1,50-100,Agency,13200
+Senior,9,less than 50,Product,60000
+Senior,10,more than 1000,Product,80000
+Senior,5,less than 50,Agency,70000
+Senior,10,more than 1000,Product,70000
+Senior,10,less than 50,Startup,60000
+Middle,5,more than 1000,Product,120000
+Senior,14,100-1000,Product,75000
+Senior,6,50-100,Product,67000
+Senior,5,100-1000,Product,66000
+Middle,2,100-1000,Product,55000
+Senior,10,50-100,Product,80000
+Senior,10,100-1000,Product,72000
+Senior,7,100-1000,Startup,66000
+Senior,8,more than 1000,Product,70000
+Senior,9,100-1000,Product,75000
+Middle,1,50-100,Startup,59000
+Senior,5,100-1000,Product,80000
+Senior,12,100-1000,Product,90000
+Senior,11,more than 1000,Product,81600
+Senior,15,less than 50,Agency,65000
+Middle,7,100-1000,Agency,62000
+Head,9,more than 1000,Product,128000
+Senior,10,more than 1000,Product,92000
+Middle,4,100-1000,Product,65000
+Senior,5,more than 1000,Agency,62000
+Senior,8,100-1000,Product,96000
+Senior,5,100-1000,Product,98000
+Senior,10,100-1000,Product,80000
+Senior,11,more than 1000,Product,124000
+Senior,9,more than 1000,Product,130000
+Senior,4,50-100,Startup,62000
+Head,8,100-1000,Product,106000
+Senior,12,50-100,Product,55000
+Senior,10,100-1000,Product,70000
+Senior,6,100-1000,Startup,85000
+Senior,7,100-1000,Agency,170000
+Senior,6,100-1000,Startup,70000
+Middle,8,more than 1000,Product,68000
+Senior,15,100-1000,Product,95000
+Middle,7,more than 1000,Product,70000
+Middle,3,100-1000,Startup,71000
+Senior,16,100-1000,Product,65000
+Senior,8,100-1000,Product,86000
+Senior,12,100-1000,Startup,60000
+Senior,8,more than 1000,Agency,70000
+Junior,0,more than 1000,Product,55000
+Senior,7,more than 1000,Product,67000
+Senior,7,more than 1000,Corporation,85000
+Senior,4,more than 1000,Product,60000
+Middle,3,more than 1000,Product,67000
+Senior,8,50-100,Product,65000
+Senior,5,100-1000,Startup,100000
+Middle,18,100-1000,Product,56000
+Middle,7,more than 1000,Product,62500
+Middle,10,more than 1000,Product,76000
+Middle,2,100-1000,Agency,42000
+Senior,15,100-1000,Product,77000
+Senior,5,100-1000,Product,65000
+Senior,17,100-1000,Product,60000
+Senior,14,100-1000,Product,75000
+Senior,10,100-1000,Product,108000
+Senior,20,100-1000,Product,78000
+Head,12,more than 1000,Product,80000
+Senior,13,100-1000,Product,70000
+Senior,10,more than 1000,Product,120000
+Middle,14,50-100,Product,34446
+Senior,8,100-1000,Product,108000
+Head,8,more than 1000,Product,130000
+Senior,7,50-100,Startup,65000
+Middle,3,more than 1000,Agency,38400
+Senior,6,50-100,Product,96000
+Senior,8,more than 1000,Product,62000
+Middle,8,100-1000,Product,65000
+Middle,10,100-1000,Agency,80200
+Head,11,100-1000,Product,90000
+Senior,15,100-1000,Product,75700
+Junior,2,more than 1000,Product,46000
+Middle,5,more than 1000,Product,63400
+Senior,9,more than 1000,Product,70000
+Senior,11,more than 1000,Startup,106000
+Senior,13,50-100,Product,75000
+Senior,11,more than 1000,Product,90000
+Senior,8,50-100,Startup,90000
+Senior,11,more than 1000,Product,105000
+Junior,1,more than 1000,Product,52000
+Senior,6,100-1000,Startup,58000
+Middle,4,more than 1000,Product,55000
+Senior,15,100-1000,Agency,85000
+Senior,8,100-1000,Startup,75000
+Senior,4,100-1000,Agency,60000
+Middle,7,more than 1000,Product,52000
+Senior,12,100-1000,Product,85000
+Middle,20,more than 1000,Product,70000
+Senior,18,more than 1000,Agency,88000
+Senior,15,more than 1000,Product,73000
+Senior,20,less than 50,Agency,150000
+Senior,7,more than 1000,Product,74000
+Senior,10,100-1000,Startup,78000
+Head,10,50-100,Product,77000
+Senior,12,100-1000,Product,125000
+Middle,12,more than 1000,Product,46000
+Senior,6,100-1000,Startup,52000
+Senior,6,50-100,Startup,87000
+Middle,5,more than 1000,Product,65000
+Middle,3,100-1000,Startup,55000
+Senior,7,more than 1000,Product,69000
+Middle,2,100-1000,Product,70000
+Junior,2,more than 1000,Product,44000
+Senior,17,100-1000,Product,76500
+Middle,6,more than 1000,Product,66000
+Junior,1,100-1000,Agency,52500
+Middle,2,less than 50,Startup,57000
+Senior,12,50-100,Product,70000
+Senior,8,100-1000,Product,59000
+Senior,20,100-1000,Product,63000
+Senior,8,more than 1000,Corporation,98000
+Senior,8,100-1000,Product,73000
+Head,7,more than 1000,Product,110000
+Middle,3,100-1000,Product,58000
+Senior,7,50-100,Startup,98000
+Senior,8,more than 1000,Product,130000
+Junior,3,more than 1000,Product,50000
+Senior,5,100-1000,Product,57000
+Middle,3,more than 1000,Product,73500
+Middle,4,more than 1000,Product,68000
+Middle,6,50-100,Product,65000
+Senior,12,more than 1000,Product,96000
+Senior,3,100-1000,Product,57000
+Middle,3,more than 1000,Agency,46000
+Middle,4,100-1000,Agency,65000
+Junior,1,100-1000,Product,48000
+Senior,13,100-1000,Product,135000
+Senior,12,more than 1000,Agency,70000
+Senior,12,less than 50,Agency,75000
+Junior,3,more than 1000,Product,55000
+Senior,15,100-1000,Product,22000
+Senior,10,more than 1000,Startup,106000
+Senior,10,more than 1000,Startup,106000
+Middle,7,100-1000,Product,67000
+Senior,11,50-100,Product,67500
+Senior,6,100-1000,Product,90000
+Senior,3,more than 1000,Agency,20000
+Senior,8,100-1000,Product,75000
+Junior,1,more than 1000,Agency,67000
+Senior,10,100-1000,Startup,140000
+Middle,7,100-1000,Product,96000
+Middle,4,more than 1000,Startup,52000
+Senior,3,50-100,Startup,45000
+Senior,12,100-1000,Startup,80000
+Middle,2,more than 1000,Agency,50000
+Senior,10,100-1000,Agency,72000
+Middle,4,more than 1000,Product,60000
+Senior,6,100-1000,Product,68000
+Middle,9,100-1000,Product,68000
+Middle,5,100-1000,Startup,70000
+Senior,5,more than 1000,Corporation,85000
+Senior,15,less than 50,Startup,54000
+Senior,4,100-1000,Startup,65000
+Middle,3,more than 1000,Product,67200
+Senior,5,100-1000,Agency,79000
+Senior,7,more than 1000,Agency,120000
+Middle,8,more than 1000,Product,72000
+Senior,8,100-1000,Product,104000
+Middle,2,100-1000,Product,53000
+Senior,8,more than 1000,Agency,130000
+Head,10,more than 1000,Product,110000
+Senior,24,100-1000,Product,115000
+Senior,11,100-1000,Product,75000
+Senior,10,more than 1000,Product,62000
+Senior,3,100-1000,Agency,45000
+Senior,6,100-1000,Product,75000
+Junior,8,more than 1000,Product,54000
+Senior,11,100-1000,Product,95000
+Head,10,more than 1000,Product,125000
+Middle,3,more than 1000,Agency,39400
+Senior,15,50-100,Startup,75000
+Senior,10,more than 1000,Product,75000
+Junior,1,more than 1000,Product,45000
+Middle,6,more than 1000,Product,78000
+Middle,2,more than 1000,Agency,55000
+Middle,7,100-1000,Startup,90000
+Senior,4,100-1000,Product,65000
+Senior,7,100-1000,Startup,80000
+Senior,5,more than 1000,Product,150000
+Middle,9,more than 1000,Product,105000
+Senior,8,100-1000,Product,85000
+Senior,15,more than 1000,Product,100000
+Senior,18,more than 1000,Product,80000
+Junior,2,50-100,Startup,47000
+Middle,3,100-1000,Product,53600
+Middle,4,more than 1000,Product,66000
+Senior,3,50-100,Startup,62000
+Senior,4,more than 1000,Agency,87000
+Senior,20,more than 1000,Product,95000
+Middle,10,50-100,Product,65000
+Middle,2,more than 1000,Agency,95000
+Senior,7,more than 1000,Product,105000
+Junior,2,100-1000,Product,36000
+Senior,8,100-1000,Product,73000
+Senior,12,100-1000,Product,216000
+Middle,8,100-1000,Product,90000
+Middle,7,100-1000,Startup,57000
+Senior,3,more than 1000,Agency,60000
+Senior,4,100-1000,Startup,66000
+Junior,1,more than 1000,Agency,44000
+Senior,15,100-1000,Product,58000
+Senior,9,more than 1000,Product,112000
+Junior,1,less than 50,Startup,30000
+Middle,5,100-1000,Product,85000
+Senior,15,100-1000,Product,100000
+Senior,4,50-100,Product,80000
+Senior,15,100-1000,Startup,80000
+Senior,10,50-100,Startup,133000
+Junior,2,more than 1000,Agency,33000
+Senior,16,more than 1000,Agency,64000
+Senior,16,more than 1000,Agency,64000
+Senior,5,100-1000,Agency,62000
+Middle,5,50-100,Product,55000
+Senior,8,more than 1000,Product,85000
+Senior,8,more than 1000,Product,70000
+Senior,8,more than 1000,Product,63600
+Senior,9,100-1000,Startup,79000
+Senior,10,100-1000,Agency,68000
+Senior,6,50-100,Product,60000
+Middle,15,100-1000,Product,68000
+Middle,15,100-1000,Product,68000
+Senior,11,100-1000,Product,91000
+Senior,12,less than 50,Startup,90000
+Middle,2,more than 1000,Agency,65000
+Senior,20,more than 1000,Product,95000
+Middle,5,more than 1000,Product,65000
+Senior,10,100-1000,Startup,75000
+Middle,7,more than 1000,Product,55000
+Middle,2,100-1000,Agency,40000
+Senior,6,100-1000,Startup,96000
+Senior,8,more than 1000,Startup,72000
+Middle,7,100-1000,Product,60000
+Senior,5,100-1000,Product,63000
+Middle,6,100-1000,Product,76000
+Senior,15,more than 1000,Product,98000
+Senior,10,more than 1000,Product,62000
+Senior,3,less than 50,Product,63000
+Senior,10,more than 1000,Product,73000
+Junior,2,100-1000,Startup,50000
+Middle,2,100-1000,Product,36000
+Senior,7,100-1000,Product,80000
+Senior,8,more than 1000,Product,91000
+Senior,6,50-100,Product,70000
+Senior,5,more than 1000,Product,77000
+Middle,3,100-1000,Product,56000
+Senior,12,more than 1000,Product,69000
+Senior,15,more than 1000,Product,35000
+Senior,5,100-1000,Product,60000
+Senior,15,100-1000,Product,75000
+Senior,9,50-100,Startup,75000
+Middle,3,100-1000,Product,57000
+Middle,3,more than 1000,Product,50000
+Senior,10,more than 1000,Agency,66000
+Senior,3,100-1000,Startup,63000
+Senior,11,100-1000,Agency,72500
+Senior,18,more than 1000,Startup,120000
+Senior,4,100-1000,Product,67000
+Senior,7,100-1000,Product,90000
+Senior,10,more than 1000,Product,80000
+Middle,5,50-100,Startup,70000
+Senior,8,50-100,Product,65000
+Senior,1,more than 1000,Agency,61800
+Middle,3,100-1000,Product,50000
+Middle,4,100-1000,Product,58000
+Middle,5,100-1000,Product,60000
+Senior,9,100-1000,Agency,100000
+Senior,8,more than 1000,Product,105000
+Senior,15,100-1000,Startup,65000
+Senior,14,100-1000,Agency,68000
+Middle,1,100-1000,Startup,50000
+Senior,8,100-1000,Product,42000
+Middle,3,more than 1000,Product,24000
+Junior,1,more than 1000,Product,60000
+Senior,16,100-1000,Product,115000
+Middle,7,100-1000,Product,63000
+Middle,2,more than 1000,Product,53900
+Senior,14,100-1000,Product,72000
+Senior,10,100-1000,Agency,110000
+Senior,18,more than 1000,Agency,83000
+Senior,12,100-1000,Product,72000
+Senior,12,more than 1000,Product,73000
+Head,11,more than 1000,Product,115000
+Senior,7,100-1000,Product,96000
+Senior,12,100-1000,Product,75000
+Senior,6,100-1000,Agency,110000
+Senior,6,100-1000,Product,70000
+Senior,18,100-1000,Product,55000
+Head,10,more than 1000,Product,83000
+Middle,3,less than 50,Product,56000
+Senior,12,100-1000,Product,65000
+Middle,2,100-1000,Startup,62000
+Senior,8,100-1000,Product,60000
+Senior,16,100-1000,Product,107000
+Senior,10,50-100,Agency,78000
+Senior,16,more than 1000,Product,75000
+Senior,4,100-1000,Product,75000
+Senior,19,more than 1000,Product,96000
+Senior,8,100-1000,Product,65000
+Senior,9,50-100,Product,65000
+Senior,9,more than 1000,Product,68000
+Senior,8,100-1000,Product,106000
+Senior,8,100-1000,Agency,70000
+Senior,14,more than 1000,Product,52000
+Senior,13,50-100,Product,68000
+Senior,6,more than 1000,Product,102000
+Senior,10,100-1000,Startup,80000
+Senior,7,more than 1000,Product,90000
+Head,11,more than 1000,Corporation,128000
+Senior,3,more than 1000,Product,63000
+Head,8,100-1000,Product,82000
+Middle,5,more than 1000,Product,50000
+Senior,9,more than 1000,Corporation,120000
+Middle,9,100-1000,Agency,64800
+Senior,15,100-1000,Agency,65000
+Middle,7,100-1000,Product,100000
+Middle,8,more than 1000,Product,110000
+Head,9,100-1000,Startup,110000
+Middle,7,more than 1000,Product,66000
+Senior,8,100-1000,Product,55000
+Senior,5,100-1000,Agency,125000
+Middle,6,more than 1000,Product,70000
+Middle,2,100-1000,Agency,51072
+Senior,8,more than 1000,Product,80000
+Head,10,50-100,Startup,130000
+Senior,16,100-1000,Product,110000
+Senior,14,50-100,Startup,86000
+Senior,14,100-1000,Product,82000
+Senior,20,less than 50,Agency,140000
+Senior,13,100-1000,Startup,64000
+Senior,4,100-1000,Product,74000
+Middle,1,100-1000,Agency,59000
+Senior,10,more than 1000,Product,103000
+Senior,8,more than 1000,Product,110000
+Middle,6,more than 1000,Product,65000
+Senior,9,more than 1000,Product,85000
+Middle,7,more than 1000,Product,67000
+Middle,7,more than 1000,Product,66340
+Middle,2,100-1000,Product,30000
+Senior,5,100-1000,Product,95000
+Middle,10,50-100,Startup,68000
+Senior,15,more than 1000,Product,77000
+Middle,6,more than 1000,Product,89000
+Middle,3,100-1000,Startup,48000
+Middle,4,100-1000,Product,60000
+Senior,6,100-1000,Product,60600
+Head,9,more than 1000,Product,107000
+Senior,12,100-1000,Agency,120000
+Senior,10,100-1000,Product,84000
+Senior,17,more than 1000,Product,79000
+Senior,7,50-100,Startup,87000
+Head,8,100-1000,Product,90000
+Senior,8,100-1000,Agency,75000
+Junior,3,50-100,Agency,48000
+Middle,6,100-1000,Product,50000
+Senior,10,more than 1000,Product,75000
+Middle,5,more than 1000,Product,73000
+Middle,4,more than 1000,Agency,52000
+Junior,2,50-100,Product,45000
+Senior,10,more than 1000,Product,75000
+Senior,16,100-1000,Product,95000
+Middle,4,100-1000,Agency,28300
+Senior,25,100-1000,Product,93000
+Middle,3,100-1000,Startup,77000
+Senior,5,100-1000,Agency,45000
+Middle,4,100-1000,Startup,65000
+Senior,12,more than 1000,Product,82000
+Middle,2,more than 1000,Product,63000
+Middle,3,50-100,Product,56000
+Head,10,100-1000,Startup,115000
+Middle,3,100-1000,Product,57000
+Middle,3,50-100,Startup,51000
+Senior,13,100-1000,Product,75000
+Middle,5,more than 1000,Product,82000
+Senior,16,more than 1000,Corporation,77500
+Middle,2,more than 1000,Agency,70000
+Middle,5,100-1000,Product,58000
+Middle,10,100-1000,Product,69000
+Middle,9,more than 1000,Product,81000
+Senior,10,more than 1000,Product,65000
+Middle,3,100-1000,Product,48000
+Middle,7,more than 1000,Product,60000
+Middle,3,more than 1000,Product,60000
+Senior,12,less than 50,Startup,54000
+Middle,10,more than 1000,Product,87500
+Senior,8,more than 1000,Product,76000
+Middle,3,more than 1000,Product,78000
+Middle,4,100-1000,Agency,30000
+Middle,6,50-100,Startup,62000
+Senior,8,50-100,Product,80000
+Junior,2,50-100,Product,48000
+Senior,6,100-1000,Product,53000
+Senior,9,100-1000,Product,58500
+Senior,13,more than 1000,Product,64000
+Senior,8,more than 1000,Product,70000
+Senior,7,50-100,Product,72000
+Senior,9,more than 1000,Product,105000
+Middle,5,100-1000,Startup,72000
+Senior,10,more than 1000,Agency,62000
+Senior,6,100-1000,Product,58000
+Middle,4,100-1000,Product,78000
+Senior,12,100-1000,Product,75000
+Senior,16,more than 1000,Product,83400
+Senior,9,more than 1000,Product,67000
+Middle,5,100-1000,Product,65000
+Middle,4,100-1000,Product,62000
+Junior,2,more than 1000,Product,43000
+Senior,5,less than 50,Agency,70000
+Senior,10,more than 1000,Product,78000
+Senior,6,less than 50,Product,48000
+Senior,10,50-100,Product,83000
+Senior,5,more than 1000,Product,67000
+Middle,12,more than 1000,Product,82000
+Head,12,more than 1000,Product,115000
+Senior,25,more than 1000,Product,125000
+Senior,6,100-1000,Startup,75000
+Senior,8,more than 1000,Product,87000
+Middle,5,100-1000,Agency,58000
+Middle,5,100-1000,Agency,50000
+Middle,2,more than 1000,Product,70000
+Senior,11,100-1000,Product,69300
+Senior,11,50-100,Startup,75000
+Senior,5,100-1000,Agency,155000
+Senior,7,50-100,Startup,70000
+Junior,0,50-100,Agency,55000
+Middle,6,more than 1000,Product,70000
+Middle,5,100-1000,Agency,14000
+Senior,6,more than 1000,Product,68000
+Middle,18,more than 1000,Product,82000
+Senior,16,more than 1000,Corporation,67000
+Senior,20,more than 1000,Product,90000
+Middle,8,more than 1000,Agency,53000
+Middle,4,more than 1000,Product,72000
+Senior,5,more than 1000,Agency,72000
+Head,7,more than 1000,Agency,65000
+Senior,8,more than 1000,Product,74000
+Senior,10,100-1000,Product,60000
+Senior,2,50-100,Product,63600
+Junior,1,more than 1000,Corporation,72000
+Senior,6,more than 1000,Agency,80500
+Head,9,100-1000,Startup,125000
+Middle,4,more than 1000,Product,32000
+Senior,7,more than 1000,Product,62000
+Senior,5,50-100,Product,35300
+Middle,20,more than 1000,Product,78000
+Senior,6,50-100,Product,90000
+Senior,5,100-1000,Product,67000
+Middle,10,50-100,Product,80000
+Head,9,100-1000,Startup,125000
+Senior,6,more than 1000,Product,63000
+Senior,7,more than 1000,Product,90000
+Middle,7,more than 1000,Product,74200
+Senior,8,more than 1000,Product,86000
+Senior,15,more than 1000,Corporation,117000
+Junior,1,more than 1000,Corporation,48000
+Senior,7,50-100,Product,63600
+Middle,3,100-1000,Product,36819
+Junior,2,less than 50,Startup,21600
+Senior,2,50-100,Product,63600
+Middle,3,100-1000,Agency,49000
+Senior,5,50-100,Startup,78000
+Middle,8,more than 1000,Product,120000
+Senior,6,more than 1000,Product,60000
+Senior,16,50-100,Product,65000
+Junior,1,less than 50,Agency,49000
+Senior,9,100-1000,Agency,112000
+Senior,6,100-1000,Startup,87000
+Senior,10,100-1000,Product,68000
+Middle,3,more than 1000,Product,55000
+Senior,15,less than 50,Agency,160000
+Middle,15,100-1000,Product,52000
+Senior,15,more than 1000,Agency,80000
+Senior,19,100-1000,Product,100000
+Junior,2,more than 1000,Corporation,52500
+Senior,11,100-1000,Product,68000
+Senior,13,50-100,Startup,112000
+Junior,3,100-1000,Agency,52000
+Senior,11,more than 1000,Product,105000
+Senior,20,more than 1000,Product,75000
+Senior,11,more than 1000,Product,82500
+Junior,1,less than 50,Startup,39600
+Senior,20,100-1000,Product,200000
+Middle,3,50-100,Startup,54000
+Senior,8,more than 1000,Product,98000
+Senior,8,100-1000,Product,68000
+Senior,13,100-1000,Product,125000
+Senior,20,less than 50,Product,63000
+Senior,9,more than 1000,Product,96000
+Middle,5,100-1000,Product,60000
+Senior,9,100-1000,Product,95000
+Senior,13,50-100,Startup,90000
+Middle,5,50-100,Startup,55000
+Junior,2,more than 1000,Product,48000
+Senior,10,100-1000,Product,88000
+Middle,2,more than 1000,Product,68500
+Head,12,100-1000,Startup,115000
+Senior,13,more than 1000,Agency,66000
+Senior,30,more than 1000,Agency,60000
+Senior,10,more than 1000,Product,105000
+Senior,7,more than 1000,Product,72000
+Senior,4,100-1000,Product,55000
+Middle,13,100-1000,Agency,107000
+Senior,19,100-1000,Product,73000
+Senior,5,100-1000,Product,75000
+Middle,2,more than 1000,Agency,68000
+Senior,9,100-1000,Agency,61000
+Senior,25,50-100,Startup,72000
+Middle,15,100-1000,Agency,36000
+Senior,19,100-1000,Product,58000
+Senior,17,100-1000,Startup,75000
+Senior,11,100-1000,Product,75000
+Senior,11,50-100,Startup,78000
+Junior,3,more than 1000,Product,60000
+Senior,13,50-100,Agency,78000
+Middle,2,100-1000,Product,55000
+Senior,18,more than 1000,Product,109000
+Senior,10,100-1000,Product,78000
+Senior,15,100-1000,Product,69000
+Senior,7,more than 1000,Product,56000
+Senior,11,more than 1000,Startup,78000
+Senior,6,100-1000,Product,70000
+Middle,9,100-1000,Product,70000
+Junior,1,50-100,Product,21600
+Middle,6,50-100,Agency,62000
+Senior,22,100-1000,Product,95000
+Senior,15,more than 1000,Product,86000
+Senior,6,100-1000,Product,54000
+Middle,3,100-1000,Product,49000
+Junior,1,50-100,Startup,48000
+Senior,12,50-100,Product,65000
+Middle,5,50-100,Product,53000
+Senior,6,100-1000,Product,62000
+Middle,5,more than 1000,Product,60000
+Senior,16,100-1000,Product,120000
+Middle,4,100-1000,Startup,58000
+Junior,2,more than 1000,Product,48000
+Middle,5,more than 1000,Startup,59000
+Senior,7,more than 1000,Product,73000
+Senior,8,more than 1000,Agency,65000
+Middle,7,more than 1000,Product,89000
+Senior,15,50-100,Product,65000
+Senior,10,more than 1000,Product,88000
+Middle,20,100-1000,Startup,60000
+Middle,2,50-100,Product,45000
+Senior,12,100-1000,Startup,77700
+Senior,15,more than 1000,Product,80000
+Senior,13,50-100,Product,85000
+Middle,6,more than 1000,Product,150000
+Senior,15,less than 50,Product,82500
+Senior,5,50-100,Product,60000
+Junior,2,more than 1000,Product,50000
+Senior,5,100-1000,Agency,65000
+Senior,15,100-1000,Product,62000
+Middle,3,100-1000,Product,70000
+Senior,6,more than 1000,Product,81000
+Senior,8,50-100,Startup,85000
+Middle,3,100-1000,Product,57000
+Middle,5,100-1000,Product,41160
+Middle,5,100-1000,Agency,34000
+Middle,8,50-100,Product,55000
+Middle,6,more than 1000,Product,55000
+Senior,8,100-1000,Product,55000
+Senior,8,more than 1000,Product,107685
+Head,6,100-1000,Product,75000
+Senior,7,50-100,Product,60000
+Senior,18,50-100,Product,72000
+Senior,25,50-100,Product,70000
+Senior,10,more than 1000,Product,82000
+Middle,4,100-1000,Startup,75000
+Senior,11,more than 1000,Product,88000
+Middle,10,100-1000,Product,65000
+Senior,10,100-1000,Startup,93000
+Senior,4,100-1000,Product,70000
+Senior,10,100-1000,Startup,78000
+Senior,15,50-100,Product,60000
+Senior,12,100-1000,Startup,70000
+Middle,7,more than 1000,Product,81000
+Middle,3,100-1000,Product,62000
+Middle,5,more than 1000,Agency,55000
+Middle,5,100-1000,Product,60000
+Middle,3,100-1000,Startup,50000
+Senior,18,more than 1000,Product,86700
+Head,17,more than 1000,Product,75000
+Middle,3,100-1000,Product,40000
+Senior,7,100-1000,Product,65000
+Junior,1,50-100,Agency,6000
+Senior,10,50-100,Product,89000
+Senior,8,50-100,Startup,82000
+Middle,3,100-1000,Product,54000
+Senior,10,more than 1000,Product,110000
+Senior,5,50-100,Product,34000
+Middle,6,100-1000,Product,52000
+Senior,10,more than 1000,Product,210000
+Middle,8,more than 1000,Product,75000
+Senior,22,more than 1000,Product,101000
+Head,6,100-1000,Product,27977
+Middle,1,more than 1000,Agency,15600
+Senior,6,100-1000,Product,75000
+Senior,11,100-1000,Product,70000
+Senior,9,100-1000,Product,50000
+Junior,2,100-1000,Product,45000
+Senior,9,100-1000,Product,70000
+Middle,11,100-1000,Product,65000
+Senior,5,100-1000,Product,100000
+Head,10,more than 1000,Product,83000
+Senior,28,more than 1000,Agency,110000
+Senior,28,more than 1000,Agency,110000
+Middle,4,100-1000,Product,62000
+Senior,10,more than 1000,Product,95000
+Middle,9,50-100,Agency,66000
+Senior,12,50-100,Agency,67800
+Senior,14,100-1000,Product,83000
+Senior,7,100-1000,Agency,70000
+Senior,13,50-100,Product,70000
+Middle,7,100-1000,Agency,42000
+Junior,1,more than 1000,Startup,32000
+Middle,8,100-1000,Product,80000
+Middle,17,100-1000,Product,71000
+Middle,4,more than 1000,Corporation,52800
+Senior,10,more than 1000,Product,87000
+Head,5,100-1000,Product,54000
+Senior,5,more than 1000,Agency,73300
+Senior,14,more than 1000,Startup,100000
+Head,20,more than 1000,Product,70000
+Senior,19,more than 1000,Product,73200
+Senior,19,50-100,Product,45000
+Senior,7,more than 1000,Product,74900
+Senior,10,more than 1000,Product,71000
+Senior,7,more than 1000,Corporation,72000
+Senior,9,more than 1000,Product,68000
+Senior,15,more than 1000,Product,100000
+Middle,5,more than 1000,Agency,63000
+Senior,11,100-1000,Product,77000
+Senior,8,50-100,Product,65000
+Senior,10,more than 1000,Product,88000
+Senior,6,more than 1000,Product,78000
+Senior,10,100-1000,Product,69000
+Senior,8,more than 1000,Corporation,98000
+Senior,5,more than 1000,Product,65000
+Senior,8,more than 1000,Agency,109000
+Senior,3,100-1000,Startup,65000
+Senior,8,100-1000,Agency,60000
+Senior,18,100-1000,Product,70000
+Senior,8,100-1000,Product,70000
+Middle,6,100-1000,Product,55000
+Middle,11,more than 1000,Product,94500
+Junior,3,100-1000,Startup,46000
+Senior,11,more than 1000,Product,68000
+Middle,4,more than 1000,Product,60000
+Senior,19,50-100,Startup,80000
+Senior,10,more than 1000,Corporation,132250
+Senior,10,100-1000,Startup,53000
+Middle,5,100-1000,Product,52000
+Senior,4,more than 1000,Agency,72000
+Middle,15,100-1000,Product,55000
+Senior,15,100-1000,Product,77000
+Senior,12,100-1000,Product,72000
+Senior,8,50-100,Product,80000
+Middle,5,more than 1000,Product,66000
+Middle,10,more than 1000,Corporation,75800
+Senior,12,100-1000,Startup,84000
+Senior,10,50-100,Product,60000
+Middle,4,100-1000,Product,57000
+Junior,2,100-1000,Product,58000
+Junior,1,50-100,Startup,36000
+Senior,10,100-1000,Product,70000
+Senior,10,100-1000,Product,72000
+Middle,5,100-1000,Product,75000
+Middle,9,more than 1000,Product,90000
+Senior,7,100-1000,Product,69000
+Senior,20,100-1000,Startup,113000
+Senior,10,100-1000,Product,65000
+Middle,7,50-100,Product,75000
+Middle,3,100-1000,Product,57000
+Senior,10,50-100,Product,84000
+Senior,6,more than 1000,Product,70000
+Senior,6,100-1000,Product,60000
+Senior,11,100-1000,Product,65000
+Middle,7,less than 50,Product,50000
+Middle,7.5,50-100,Agency,65000
+Junior,1,more than 1000,Product,60000
+Senior,10,50-100,Startup,71000
+Senior,9,100-1000,Product,75000
+Junior,1,more than 1000,Agency,49000
+Senior,4,100-1000,Product,65000
+Senior,10,50-100,Product,56000
+Junior,3,50-100,Product,30000
+Senior,11,less than 50,Product,72000
+Middle,4,100-1000,Product,65000
+Middle,5,less than 50,Agency,45000
+Middle,4,more than 1000,Product,55000
+Middle,6,more than 1000,Product,40000
+Middle,5,100-1000,Agency,66000
+Senior,7,100-1000,Product,66000
+Middle,5,100-1000,Product,54000
+Senior,7,more than 1000,Product,60000
+Senior,3,100-1000,Agency,48000
+Middle,4,more than 1000,Agency,66000
+Senior,10,more than 1000,Product,95000
+Middle,8,100-1000,Product,61000
+Middle,1,100-1000,Startup,65000
+Senior,8,100-1000,Product,72000
+Middle,7,more than 1000,Product,90000
+Senior,12,50-100,Startup,60000
+Middle,5,100-1000,Product,60000
+Senior,10,100-1000,Product,87000
+Senior,6,100-1000,Product,70000
+Middle,8,less than 50,Startup,30000
+Middle,5,100-1000,Startup,55000
+Middle,3,more than 1000,Product,57000
+Senior,14,50-100,Startup,73000
+Senior,15,less than 50,Startup,85000
+Senior,4,more than 1000,Agency,65000
+Senior,4,more than 1000,Agency,65000
+Senior,9,100-1000,Startup,58000
+Head,14,100-1000,Product,82000
+Senior,10,100-1000,Product,67000
+Senior,12,100-1000,Product,65000
+Middle,3,100-1000,Agency,62000
+Senior,6,50-100,Startup,62000
+Senior,19,100-1000,Product,83000
+Senior,10,more than 1000,Product,75000
+Middle,2,50-100,Startup,50000
+Senior,8,50-100,Agency,100000
+Middle,10,more than 1000,Product,75000
+Senior,18,50-100,Agency,69000
+Middle,3,100-1000,Product,50000
+Middle,10,50-100,Startup,73000
+Senior,15,more than 1000,Product,120000
+Middle,3,more than 1000,Corporation,58000
+Senior,11,50-100,Product,65000
+Senior,8,less than 50,Startup,80000
+Senior,10,50-100,Startup,70000
+Senior,4,50-100,Product,65000
+Senior,12,100-1000,Product,78600
+Senior,5,more than 1000,Product,60000
+Senior,6,100-1000,Startup,78000
+Senior,17,50-100,Startup,70000
+Middle,8,more than 1000,Product,89000
+Junior,0.5,50-100,Product,60000
+Middle,5,50-100,Product,60000
+Senior,9,more than 1000,Product,72000
+Middle,3,50-100,Product,43000
+Senior,7,more than 1000,Product,72000
+Senior,7,more than 1000,Startup,65000
+Senior,5,more than 1000,Agency,85000
+Senior,8,50-100,Product,55000
+Middle,4,100-1000,Startup,65000
+Middle,4,more than 1000,Product,56000
+Senior,10,100-1000,Product,107000
+Middle,3,100-1000,Product,60000
+Senior,7,100-1000,Startup,70000
+Middle,6,100-1000,Product,60000
+Senior,15,100-1000,Product,62000
+Middle,4,100-1000,Product,46000
+Middle,7,more than 1000,Product,64000
+Senior,13,more than 1000,Product,75000
+Senior,8,100-1000,Product,95000
+Middle,5,100-1000,Product,60000
+Middle,6,100-1000,Product,53000
+Middle,3,more than 1000,Product,69000
+Senior,20,more than 1000,Product,84000
+Senior,7,50-100,Startup,75000
+Senior,6,100-1000,Product,63000
+Senior,17,more than 1000,Product,87000
+Senior,6,100-1000,Product,65000
+Senior,19,more than 1000,Product,85000
+Senior,2.5,100-1000,Startup,66000
+Senior,11,100-1000,Product,65000
+Middle,8,more than 1000,Startup,74000
+Senior,10,100-1000,Startup,75000
+Senior,8,100-1000,Product,72500
+Senior,7,100-1000,Product,53000
+Senior,13,100-1000,Product,102000
+Senior,11,100-1000,Product,60000
+Senior,10,more than 1000,Product,75000
+Senior,15,more than 1000,Product,85000
+Senior,9,less than 50,Startup,60000
+Head,5,100-1000,Product,60000
+Middle,5,more than 1000,Product,35000
+Senior,8,50-100,Agency,75000
+Senior,11,50-100,Startup,65000
+Senior,8,more than 1000,Product,55800
+Middle,4,more than 1000,Product,55000
+Middle,5,more than 1000,Product,55000
+Senior,7,100-1000,Product,70000
+Senior,12,100-1000,Product,63000
+Senior,8,more than 1000,Product,115000
+Middle,2,100-1000,Agency,52000
+Senior,13,more than 1000,Product,176000
+Senior,14,less than 50,Startup,70000
+Senior,7,100-1000,Product,44000
+Middle,2.5,less than 50,Startup,50000
+Middle,4,100-1000,Agency,58000
+Senior,3,more than 1000,Product,60000
+Senior,3,100-1000,Startup,64000
+Senior,8,50-100,Product,95000
+Middle,6,100-1000,Startup,50000
+Senior,13,100-1000,Product,90000
+Senior,12,100-1000,Product,75000
+Senior,4,50-100,Startup,46000
+Middle,5,more than 1000,Product,80000
+Senior,5,50-100,Agency,92000
+Middle,4,100-1000,Agency,60000
+Senior,13,less than 50,Startup,90000
+Senior,8,50-100,Product,75000
+Senior,8,100-1000,Startup,55000
+Junior,1.5,more than 1000,Product,70000
+Senior,20,50-100,Startup,74000
+Middle,5,50-100,Product,65000
+Senior,6,more than 1000,Product,125000
+Senior,10,100-1000,Product,68000
+Senior,13,100-1000,Startup,80000
+Senior,7,50-100,Product,40000
+Middle,5,100-1000,Agency,60000
+Senior,15,more than 1000,Product,92000
+Senior,8,100-1000,Startup,75000
+Middle,16,100-1000,Product,58000
+Senior,6,more than 1000,Product,76000
+Senior,9,100-1000,Product,75000
+Senior,6,more than 1000,Product,75000
+Senior,12,more than 1000,Product,80000
+Senior,9,more than 1000,Agency,80000
+Head,10,more than 1000,Product,83000
+Senior,11,more than 1000,Product,80000
+Senior,9,50-100,Product,80000
+Middle,3,50-100,Product,58000
+Senior,15,100-1000,Startup,68000
+Junior,0,more than 1000,Product,49000
+Middle,7,less than 50,Startup,34000
+Middle,5,100-1000,Product,68000
+Senior,7,50-100,Startup,75000
+Senior,10,more than 1000,Startup,95000
+Middle,7,more than 1000,Product,70500
+Senior,12,100-1000,Product,65000
+Senior,20,100-1000,Product,96000
+Middle,5,more than 1000,Product,65000
+Senior,11,100-1000,Product,83000
+Middle,4,100-1000,Product,78000
+Middle,4,less than 50,Startup,45000
+Middle,8,100-1000,Product,65000
+Senior,10,more than 1000,Product,120000
+Senior,5,more than 1000,Product,85000
+Middle,3,50-100,Product,65000
+Senior,15,50-100,Product,65000
+Senior,10,100-1000,Product,86000
+Senior,11,100-1000,Product,61000
+Senior,10,100-1000,Startup,75000
+Middle,5,more than 1000,Product,65000
+Senior,20,more than 1000,Agency,120000
+Senior,18,less than 50,Agency,84000
+Middle,4,50-100,Product,54000
+Senior,10,100-1000,Product,61000
+Senior,15,100-1000,Product,85000
+Senior,6,100-1000,Startup,68000
+Senior,10,less than 50,Product,96000
+Senior,15,100-1000,Product,70000
+Senior,10,50-100,Product,50000
+Senior,10,100-1000,Product,57000
+Senior,8,more than 1000,Product,60000
+Senior,10,100-1000,Startup,44000
+Senior,10,more than 1000,Product,95000
+Senior,18,100-1000,Product,67000
+Middle,8,100-1000,Product,46000
+Senior,9,less than 50,Agency,90000
+Senior,11,50-100,Product,92000
+Senior,11,more than 1000,Corporation,115000
+Senior,7,100-1000,Startup,70000
+Middle,17,100-1000,Product,35000
+Senior,7,100-1000,Product,60000
+Senior,9,more than 1000,Product,90000
+Senior,9,more than 1000,Product,90000
+Senior,17,50-100,Startup,80000
+Middle,5,more than 1000,Product,90000
+Senior,5,100-1000,Agency,55000
+Middle,2.5,50-100,Product,52000
+Senior,10,100-1000,Product,53000
+Senior,8,more than 1000,Product,72000
+Senior,12,more than 1000,Product,80000
+Head,20,less than 50,Startup,200000
+Middle,5,more than 1000,Product,63000
+Senior,10,more than 1000,Product,73300
+Senior,10,more than 1000,Product,115000
+Senior,12,100-1000,Product,73500
+Senior,10,more than 1000,Product,83000
+Senior,7,100-1000,Agency,42000
+Middle,5,more than 1000,Product,56000
+Senior,9,more than 1000,Product,130000
+Senior,12,100-1000,Startup,70000
+Middle,5,100-1000,Startup,45000
+Senior,7,50-100,Product,57000
+Senior,8,more than 1000,Agency,65000
+Senior,5,50-100,Product,47500
+Middle,12,50-100,Product,70000
+Middle,4,more than 1000,Product,90000
+Middle,5,50-100,Startup,50000
+Senior,12,more than 1000,Product,85000
+Senior,8,more than 1000,Product,65000
+Middle,5,100-1000,Agency,62000
+Middle,8,100-1000,Agency,66000
+Senior,15,100-1000,Product,75000
+Middle,13,more than 1000,Product,70000
+Senior,6,100-1000,Product,70000
+Senior,7,more than 1000,Product,62000
+Senior,5,50-100,Startup,60000
+Middle,5,more than 1000,Product,56000
+Middle,10,50-100,Product,65000
+Middle,6,more than 1000,Product,78000
+Senior,4,100-1000,Startup,60000
+Senior,12,100-1000,Product,85000
+Senior,12,more than 1000,Product,61000
+Senior,10,more than 1000,Product,68000
+Senior,5,100-1000,Startup,81000
+Middle,3,50-100,Product,61000
+Senior,25,more than 1000,Product,140000
+Senior,6,50-100,Product,52000
+Senior,5,100-1000,Startup,65000
+Senior,8,more than 1000,Product,80000
+Middle,8,100-1000,Product,68000
+Senior,7,50-100,Product,90000
+Middle,6,more than 1000,Product,80000
+Senior,7,100-1000,Product,65000
+Senior,10,50-100,Product,70000
+Senior,10,100-1000,Product,60000
+Middle,4,100-1000,Product,55000
+Senior,20,more than 1000,Agency,75000
+Senior,11,more than 1000,Product,87000
+Senior,8,100-1000,Startup,66000
+Junior,1,less than 50,Product,30000
+Senior,9,more than 1000,Startup,60000
+Senior,12,100-1000,Startup,75000
+Senior,10,50-100,Agency,130000
+Senior,4,50-100,Product,70000
+Middle,3,more than 1000,Agency,62000
+Senior,8,100-1000,Startup,53500
+Junior,4,more than 1000,Product,87975
+Senior,10,100-1000,Product,60000
+Senior,9,more than 1000,Product,70000
+Middle,3,more than 1000,Product,55000
+Senior,11,more than 1000,Product,70000
+Senior,10,50-100,Product,54000
+Senior,7,100-1000,Product,130000
+Senior,18,100-1000,Agency,140000
+Senior,10,100-1000,Startup,76000
+Middle,5,100-1000,Startup,53000
+Senior,10,more than 1000,Agency,31500
+Senior,13,50-100,Product,58000
+Senior,6,100-1000,Product,52000
+Senior,9,50-100,Startup,75000
+Senior,10,100-1000,Agency,68000
+Senior,6,100-1000,Product,58000
+Senior,15,more than 1000,Agency,110000
+Senior,7,100-1000,Product,68000
+Senior,9,100-1000,Startup,70000
+Senior,10,100-1000,Product,70000
+Middle,12,100-1000,Product,72000
+Middle,8,100-1000,Agency,60000
+Senior,10,100-1000,Agency,120000
+Junior,1,more than 1000,Product,60000
+Senior,7,100-1000,Product,70000
+Middle,4,more than 1000,Product,67000
+Middle,3,50-100,Product,75000
+Middle,9,100-1000,Corporation,65000
+Senior,6,100-1000,Product,63000
+Senior,10,50-100,Product,57000
+Senior,7,100-1000,Product,112000
+Senior,11,more than 1000,Product,100000
+Senior,5,less than 50,Startup,72000
+Senior,11,more than 1000,Startup,78000
+Junior,3,100-1000,Product,44000
+Middle,6,more than 1000,Agency,59000
+Senior,10,100-1000,Product,66000
+Senior,11,less than 50,Startup,60000
+Senior,10,100-1000,Product,65000
+Middle,9,100-1000,Product,60000
+Senior,12,more than 1000,Product,72000
+Senior,5,more than 1000,Agency,68400
+Senior,15,100-1000,Product,55000
+Senior,12,more than 1000,Product,60000
+Senior,9,50-100,Startup,70000
+Senior,8,more than 1000,Product,65000
+Senior,18,50-100,Product,70000
+Senior,10,100-1000,Product,80000
+Junior,1,100-1000,Product,47000
+Senior,12,50-100,Startup,66000
+Senior,15,more than 1000,Product,67200
+Senior,14,more than 1000,Product,85000
+Senior,6,more than 1000,Product,72000
+Senior,5,more than 1000,Product,69000
+Senior,15,more than 1000,Product,60000
+Middle,2,50-100,Startup,53000
+Senior,16,50-100,Agency,86000
+Senior,11,more than 1000,Agency,45000
+Senior,5,50-100,Startup,72000
+Middle,3,more than 1000,Product,65000
+Junior,3,100-1000,Agency,47000
+Senior,6,100-1000,Product,60000
+Middle,6,100-1000,Agency,50000
+Senior,12,100-1000,Product,111000
+Middle,6,100-1000,Product,40800
+Senior,18,100-1000,Product,92100
+Middle,5,more than 1000,Product,73000
+Senior,3,more than 1000,Agency,38000
+Senior,8,more than 1000,Product,75000
+Senior,9,50-100,Product,70000
+Senior,8,100-1000,Product,70000
+Junior,1,100-1000,Product,10300
+Senior,9,more than 1000,Product,75000
+Senior,30,50-100,Startup,65000
+Middle,2.5,more than 1000,Product,24000
+Middle,2,50-100,Agency,52000
+Senior,10,more than 1000,Agency,39600
+Middle,9,100-1000,Product,64400
+Senior,12,less than 50,Product,57000
+Senior,9,more than 1000,Product,52000
+Middle,6,more than 1000,Product,77000
+Senior,20,more than 1000,Agency,48000
+Senior,12,100-1000,Startup,67000
+Senior,9,more than 1000,Product,85000
+Senior,8,100-1000,Product,57800
+Senior,7,more than 1000,Agency,44000
+Senior,10,100-1000,Agency,70000
+Middle,4,50-100,Product,47300
+Middle,8,more than 1000,Agency,53000
+Senior,10,100-1000,Product,23162
+Senior,11,100-1000,Product,100000
+Senior,15,less than 50,Product,60000
+Middle,8,more than 1000,Product,90000
+Senior,15,more than 1000,Startup,60000
+Senior,13,less than 50,Startup,60000
+Middle,10,more than 1000,Product,75000
+Middle,5,100-1000,Product,56000
+Senior,7,50-100,Startup,55000
+Senior,20,more than 1000,Corporation,80000
+Senior,18,100-1000,Product,75000
+Junior,2,more than 1000,Product,17532
+Senior,5,50-100,Agency,34000
+Senior,10,100-1000,Product,69000
+Senior,10,100-1000,Product,69000
+Senior,5,less than 50,Product,60000
+Middle,2,50-100,Product,19200
+Senior,7,100-1000,Product,75000
+Senior,13,more than 1000,Product,63000
+Middle,6,more than 1000,Product,62000
+Senior,13,100-1000,Product,80000
+Middle,5,more than 1000,Product,58000
+Junior,12,100-1000,Product,108000
+Middle,15,more than 1000,Product,72000
+Senior,10,more than 1000,Product,38400
+Senior,8,more than 1000,Product,70000
+Middle,6,50-100,Product,51000
+Senior,15,100-1000,Product,75000
+Senior,12,100-1000,Product,69600
+Senior,10,100-1000,Product,85000
+Senior,10,100-1000,Product,68000
+Senior,9,more than 1000,Product,65000
+Senior,6,100-1000,Product,58500
+Senior,9,50-100,Startup,130000
+Senior,10,more than 1000,Agency,80000
+Senior,12,50-100,Startup,65000
+Senior,15,50-100,Product,68000
+Senior,10,100-1000,Product,96000
+Senior,11,50-100,Startup,120000
+Middle,6,100-1000,Product,70000
+Middle,9,100-1000,Product,44000
+Middle,5,100-1000,Agency,58500
+Middle,9,100-1000,Startup,55000
+Senior,6,50-100,Startup,70000
+Middle,7,50-100,Startup,60000
+Senior,15,less than 50,Startup,80000
+Middle,4,more than 1000,Product,42000
+Senior,7,100-1000,Product,47000
+Senior,7,100-1000,Product,68000
+Middle,4,more than 1000,Agency,65000
+Senior,11,50-100,Agency,65000
+Junior,2,100-1000,Startup,47250
+Senior,12,more than 1000,Product,87000
+Senior,12,100-1000,Product,85000
+Junior,3,100-1000,Product,39000
+Middle,4,100-1000,Agency,65000
+Senior,13,more than 1000,Product,65000
+Senior,15,100-1000,Product,69000
+Senior,8,100-1000,Product,77000
+Senior,7,100-1000,Product,73000
+Senior,10,100-1000,Product,65000
+Senior,5,more than 1000,Product,60000
+Middle,6,100-1000,Agency,55000
+Senior,38,less than 50,Product,58000
+Senior,20,more than 1000,Agency,72000
+Middle,5,100-1000,Startup,55000
+Senior,7,100-1000,Product,70000
+Senior,15,more than 1000,Product,57000
+Senior,4,more than 1000,Product,65000
+Senior,10,more than 1000,Corporation,90000
+Senior,10,more than 1000,Corporation,88000
+Senior,7,100-1000,Product,70000
+Senior,12,more than 1000,Product,60000
+Middle,7,50-100,Product,78000
+Senior,10,100-1000,Agency,64500
+Senior,7,100-1000,Product,96000
+Senior,7,100-1000,Startup,68000
+Senior,10,more than 1000,Product,122000
+Middle,21,100-1000,Startup,90000
+Junior,2,more than 1000,Product,55000
+Senior,18,more than 1000,Agency,60000
+Head,10,50-100,Startup,65000
+Middle,10,100-1000,Product,70000
+Senior,15,more than 1000,Product,75000
+Senior,9,50-100,Startup,65000
+Middle,4,100-1000,Product,60000
+Senior,15,less than 50,Agency,165000
+Senior,9,more than 1000,Product,138000
+Senior,19,more than 1000,Product,110000
+Senior,10,50-100,Startup,60000
+Middle,5,100-1000,Startup,58000
+Junior,1.5,more than 1000,Agency,46000
+Senior,14,100-1000,Agency,68000
+Senior,14,100-1000,Agency,68000
+Middle,5,more than 1000,Product,52000
+Middle,7,more than 1000,Product,74000
+Senior,4.5,more than 1000,Agency,39150
+Junior,2,100-1000,Product,60000
+Senior,8,50-100,Product,60000
+Senior,9,50-100,Agency,70000
+Senior,8,more than 1000,Agency,72000
+Middle,4,less than 50,Agency,40800
+Middle,5,50-100,Product,50000
+Middle,5,50-100,Product,53000
+Senior,18,50-100,Product,89000
+Senior,8,100-1000,Product,67500
+Middle,3,50-100,Agency,50000
+Senior,6,more than 1000,Product,80000
+Senior,8,100-1000,Product,80000
+Senior,8,more than 1000,Product,132000
+Middle,5,more than 1000,Product,87500
+Senior,12,more than 1000,Product,65000
+Senior,14,more than 1000,Product,128000
+Junior,3,less than 50,Startup,37000
+Senior,11,more than 1000,Product,120000
+Senior,18,more than 1000,Corporation,180000
+Senior,14,50-100,Product,55000
+Senior,10,more than 1000,Product,78000
+Senior,12,more than 1000,Product,75000
+Middle,8,100-1000,Product,72000
+Senior,6,100-1000,Product,57000
+Senior,7,100-1000,Product,68000
+Middle,5,100-1000,Agency,58000
+Senior,10,100-1000,Product,65000
+Middle,5,100-1000,Product,60000
+Senior,5,more than 1000,Product,90000
+Middle,6,more than 1000,Product,90000
+Senior,5,50-100,Product,77000
+Senior,6,100-1000,Agency,90000
+Senior,6,100-1000,Agency,90000
+Senior,7,100-1000,Product,57500
+Senior,16,50-100,Product,103000
+Senior,11,more than 1000,Product,55000
+Senior,8,100-1000,Product,125000
+Junior,1,50-100,Startup,56000
+Senior,12,more than 1000,Product,78000
+Senior,12,100-1000,Product,66000
+Senior,15,50-100,Product,67000
+Middle,9,more than 1000,Product,70000
+Senior,8,more than 1000,Product,75000
+Senior,10,100-1000,Agency,60000
+Senior,14,100-1000,Agency,90000
+Middle,10,100-1000,Startup,55000
+Senior,15,100-1000,Product,80000
+Senior,14,more than 1000,Agency,112000
+Senior,10,more than 1000,Product,72000
+Senior,9,100-1000,Product,120000
+Junior,1,50-100,Product,50000
+Senior,11,more than 1000,Product,80000
+Senior,8,50-100,Startup,65000
+Senior,11,100-1000,Product,72000
+Senior,9,50-100,Agency,83000
+Middle,6,more than 1000,Product,60000
+Senior,12,less than 50,Startup,84000
+Senior,4,more than 1000,Agency,70000
+Senior,10,50-100,Product,65000
+Senior,10,100-1000,Product,68000
+Senior,12,50-100,Product,70000
+Senior,11,more than 1000,Product,72000
+Senior,15,less than 50,Agency,65000
+Senior,5,100-1000,Startup,65000
+Middle,7,50-100,Agency,42000
+Middle,5,50-100,Startup,40000
+Middle,4,50-100,Product,60000
+Middle,6,100-1000,Product,48000
+Senior,10,more than 1000,Agency,50000
+Senior,4,100-1000,Agency,62000
+Middle,4,more than 1000,Product,55000
+Senior,10,100-1000,Product,75000
+Senior,9,more than 1000,Product,65000
+Senior,7,100-1000,Product,60000
+Senior,7,100-1000,Product,60000
+Middle,3,100-1000,Product,51600
+Senior,12,100-1000,Product,39600
+Senior,10,100-1000,Product,15000
+Senior,7,more than 1000,Product,120000
+Senior,15,100-1000,Product,130000
+Junior,1,50-100,Agency,42000
+Senior,7,more than 1000,Product,85000
+Senior,13,100-1000,Product,72000
+Middle,5,50-100,Agency,60000
+Senior,10,100-1000,Corporation,130000
+Senior,8,more than 1000,Product,77000
+Senior,17,100-1000,Agency,95000
+Senior,9,100-1000,Product,60000
+Senior,7,100-1000,Product,71000
+Senior,10,100-1000,Product,115000
+Senior,11,100-1000,Startup,75000
+Middle,15,100-1000,Product,64000
+Middle,6,100-1000,Product,65000
+Senior,20,more than 1000,Product,93000
+Middle,7,50-100,Product,33000
+Senior,0,100-1000,Startup,83200
+Senior,10,50-100,Product,85000
+Senior,10,100-1000,Product,74000
+Senior,20,50-100,Product,65000
+Junior,0,100-1000,Agency,50000
+Senior,10,more than 1000,Product,75000
+Middle,5,100-1000,Agency,50000
+Senior,5,more than 1000,Product,62500
+Senior,11,more than 1000,Agency,65000
+Senior,5,100-1000,Agency,53000
+Senior,12,100-1000,Product,70000
+Senior,7,50-100,Agency,55000
+Senior,12,less than 50,Product,60000
+Junior,2,50-100,Product,13000
+Middle,3,50-100,Product,52000
+Middle,8,100-1000,Product,40000
+Senior,7,more than 1000,Product,69000
+Senior,18,more than 1000,Product,68000
+Middle,6,50-100,Product,65000
+Senior,10,50-100,Product,80000
+Senior,9,100-1000,Startup,71500
+Senior,12,50-100,Product,50000
+Junior,1,more than 1000,Agency,51000
+Senior,20,50-100,Product,75000
+Senior,8,100-1000,Product,80000
+Senior,25,100-1000,Product,78000
+Junior,1,less than 50,Startup,42000
+Middle,4,more than 1000,Product,60000
+Senior,17,more than 1000,Product,85000
+Senior,11,more than 1000,Product,75000
+Middle,10,100-1000,Agency,75000
+Middle,30,more than 1000,Agency,63000
+Senior,10,more than 1000,Product,110000
